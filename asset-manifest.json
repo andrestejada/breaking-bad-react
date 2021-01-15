@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/breaking-bad-react/static/css/main.04ebdeab.chunk.css",
+    "main.js": "/breaking-bad-react/static/js/main.801e71bb.chunk.js",
+    "main.js.map": "/breaking-bad-react/static/js/main.801e71bb.chunk.js.map",
+    "runtime-main.js": "/breaking-bad-react/static/js/runtime-main.094e4bf6.js",
+    "runtime-main.js.map": "/breaking-bad-react/static/js/runtime-main.094e4bf6.js.map",
+    "static/js/2.46d47510.chunk.js": "/breaking-bad-react/static/js/2.46d47510.chunk.js",
+    "static/js/2.46d47510.chunk.js.map": "/breaking-bad-react/static/js/2.46d47510.chunk.js.map",
+    "static/js/3.4073015e.chunk.js": "/breaking-bad-react/static/js/3.4073015e.chunk.js",
+    "static/js/3.4073015e.chunk.js.map": "/breaking-bad-react/static/js/3.4073015e.chunk.js.map",
+    "index.html": "/breaking-bad-react/index.html",
+    "static/css/main.04ebdeab.chunk.css.map": "/breaking-bad-react/static/css/main.04ebdeab.chunk.css.map",
+    "static/js/2.46d47510.chunk.js.LICENSE.txt": "/breaking-bad-react/static/js/2.46d47510.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/breaking-bad-react/static/media/logo.4543bc50.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.094e4bf6.js",
+    "static/js/2.46d47510.chunk.js",
+    "static/css/main.04ebdeab.chunk.css",
+    "static/js/main.801e71bb.chunk.js"
+  ]
+}
